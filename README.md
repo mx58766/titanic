@@ -1,2 +1,2 @@
 # titanic
-Entra program(Mengze Xu &amp; Qiqi Yan
+Extra program(Mengze Xu &amp; Qiqi Yan
